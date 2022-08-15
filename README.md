@@ -3,4 +3,4 @@ Here are gathered some of the projects I have completed within the study interns
 
 | Skills and Tools Acquired: | 
 | :-------------------- |
-| Matplotlib, Pandas, Python, Seaborn, Сohort Analysis, Product Metrics, PostgreSQL, SQL, Tableau, ML| 
+| Matplotlib, Pandas, Python, Seaborn, Сohort Analysis, Product Metrics, PostgreSQL, Tableau, ML, A/B-testing| 
