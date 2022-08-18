@@ -1,6 +1,6 @@
 # Project name:
 
-## Loss analysis of the ProcrastinatePRO+ application
+## AB test result analysis
 
 
 | Skills and Tools Used: | Tasks: | Project description: |
