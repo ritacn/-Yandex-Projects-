@@ -29,3 +29,8 @@ We have 3 dataframes at our disposal: server log with information about site vis
  - Channel - advertising source ID
  - Dt - date
  - Costs - costs for this advertising source on this day
+
+**Make conclusions:**
+
+  - Identify the causes of inefficiencies in user engagement;
+  - Formulate recommendations for the marketing department to improve app promotion
