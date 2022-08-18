@@ -11,21 +11,21 @@ We have 3 dataframes at our disposal: server log with information about site vis
 
 *Table visits_log_short*:
 
- User Id - unique identifier of the user
- Device - user's device category
- Session start - start date and time of the session
- Session End - date and time of the session end
- Channel - identifier of advertising source the user came from
- Region - user's country
+ - User Id - unique identifier of the user
+ - Device - user's device category
+ - Session start - start date and time of the session
+ - Session End - date and time of the session end
+ - Channel - identifier of advertising source the user came from
+ - Region - user's country
  
  *Table orders_log_short:*
 
-User Id - unique id of the user who placed the order
-Event Dt - date and time of purchase
-Revenue - revenue
+- User Id - unique id of the user who placed the order
+- Event Dt - date and time of purchase
+- Revenue - revenue
 
 *Table costs_short:*
 
- Channel - advertising source ID
- Dt - date
- Costs - costs for this advertising source on this day
+ - Channel - advertising source ID
+ - Dt - date
+ - Costs - costs for this advertising source on this day
